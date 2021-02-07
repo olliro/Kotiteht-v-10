@@ -17,6 +17,10 @@
 	        display: block;
 	        height: auto;
         }
+        .teksti {
+            color: white;
+            font-weight: bold;
+        }
     </style>
     <meta charset="UTF-8">
     <title> Kotitehtävä 10 </title>
@@ -25,9 +29,9 @@
     <div class="main">
         <div class="container">
             <div class="teksti">
-                <p> Tällä sivulla </p> <br>
-                <p> kokeillaan php-tiedostojen </p> <br>
-                <p> lisäämistä require–käskyllä. </p> <br>
+                <p> Tällä sivulla </p>
+                <p> kokeillaan php-tiedostojen </p>
+                <p> lisäämistä require–käskyllä. </p>
             <div class="kuva">
                 <img class="image" src="kuva.jpg" alt="mies ja koira" />  
             </div>
