@@ -11,7 +11,7 @@
         .container {
             width: 500px;
             margin: 0 auto;
-            align: center;
+            text-align: center;
         }
     </style>
     <meta charset="UTF-8">
