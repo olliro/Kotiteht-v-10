@@ -8,13 +8,18 @@
             background-color: #f59342;
             font-family: 'Lato', sans-serif;
         }
+        .container {
+
+        }
     </style>
     <meta charset="UTF-8">
-    <title> lomake </title>
+    <title> Kotitehtävä 10 </title>
 </head>
 <body>
     <div class="main">
-        <div class="lomake">
+        <div class="container">
+            <div class="kuva">
+            </div>
         </div>
     </div>
 </body>
