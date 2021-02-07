@@ -20,6 +20,7 @@
         .teksti {
             color: white;
             font-weight: bold;
+            margin-top: 100px;
         }
     </style>
     <meta charset="UTF-8">
