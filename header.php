@@ -1,3 +1,3 @@
 <?php
-    echo "Tämä on kotitehtävä 10!";
+    echo '<h1> Tämä on kotitehtävä 10! </h1>';
     ?>

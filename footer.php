@@ -1,3 +1,3 @@
 <?php
-    echo "Tämä on kotitehtävän 10 footer!";
+    echo '<h2> Tämä on kotitehtävän 10 footer! </h2>';
     ?>

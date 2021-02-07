@@ -26,13 +26,17 @@
 </head>
 <body>
     <div class="main">
-        <?php include 'header.php'; ?>
+        <header class="header">
+            <?php include 'header.php'; ?>
+        </header>
         <div class="container">
             <div class="kuva">
             <img class="image" src="kuva.jpg" alt="mies ja koira" />  
             </div>
         </div>
-        <?php include 'footer.php'; ?>
+        <footer class="footer">
+            <?php include 'footer.php'; ?>
+        </footer>
     </div>
 </body>
 </html>
