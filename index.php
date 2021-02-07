@@ -16,11 +16,8 @@
 	        max-width: 100%;
 	        display: block;
 	        height: auto;
-        }
-        .teksti {
-            color: white;
-            font-weight: bold;
-            margin-bottom: -300px;
+            margin-top: 100px;
+            margin-bottom: 100px;
         }
     </style>
     <meta charset="UTF-8">
@@ -29,13 +26,8 @@
 <body>
     <div class="main">
         <div class="container">
-            <div class="teksti">
-                <p> Tällä sivulla </p>
-                <p> kokeillaan php-tiedostojen </p>
-                <p> lisäämistä require–käskyllä. </p>
             <div class="kuva">
-                <img class="image" src="kuva.jpg" alt="mies ja koira" />  
-            </div>
+            <img class="image" src="kuva.jpg" alt="mies ja koira" />  
             </div>
         </div>
     </div>
