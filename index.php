@@ -26,7 +26,8 @@
         <div class="container">
             <div class="teksti">
                 <p> Tällä sivulla </p> <br>
-                <p> Tällä sivulla </p> <br>
+                <p> kokeillaan php-tiedostojen </p> <br>
+                <p> lisäämistä require–käskyllä. </p> <br>
             <div class="kuva">
                 <img class="image" src="kuva.jpg" alt="mies ja koira" />  
             </div>
