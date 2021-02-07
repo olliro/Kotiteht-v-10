@@ -7,6 +7,7 @@
         body {
             background-color: #f59342;
             font-family: 'Lato', sans-serif;
+            text-align: center;
         }
         .container {
             width: 500px;
