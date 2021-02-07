@@ -10,6 +10,7 @@
         }
         .container {
             width: 500px;
+            margin: 0 auto;
         }
         img {
 	        max-width: 100%;
@@ -23,8 +24,12 @@
 <body>
     <div class="main">
         <div class="container">
+            <div class="teksti">
+                <p> Tällä sivulla </p> <br>
+                <p> Tällä sivulla </p> <br>
             <div class="kuva">
                 <img class="image" src="kuva.jpg" alt="mies ja koira" />  
+            </div>
             </div>
         </div>
     </div>
