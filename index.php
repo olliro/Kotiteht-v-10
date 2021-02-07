@@ -5,7 +5,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
     <style>
         body {
-            background-color: #f5a433;
+            background-color: #f59342;
             font-family: 'Lato', sans-serif;
         }
     </style>
