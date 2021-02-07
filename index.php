@@ -9,7 +9,12 @@
             font-family: 'Lato', sans-serif;
         }
         .container {
-
+            width: 500px;
+        }
+        img {
+	        max-width: 100%;
+	        display: block;
+	        height: auto;
         }
     </style>
     <meta charset="UTF-8">
@@ -19,6 +24,7 @@
     <div class="main">
         <div class="container">
             <div class="kuva">
+                <img class="image" src="kuva.jpg" alt="mies ja koira" />  
             </div>
         </div>
     </div>
